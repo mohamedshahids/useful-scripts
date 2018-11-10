@@ -1,4 +1,4 @@
-# useful scripts
+# quality gate jenkins-grovvy scripts
 
 I share in this repo some shell script that I weorked on, maybe someone can find them useful ;)
 
